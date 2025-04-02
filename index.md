@@ -4,8 +4,9 @@ This calculator helps determine if your investments are outperforming inflation,
 currency depreciation and broker fees.
 
 <div style="max-width: 800px; margin: 0 auto;">
-<!DOCTYPE html>
-<html lang="en">
+  <!-- Paste your entire HTML calculator code here -->
+  <!DOCTYPE html>
+  <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
